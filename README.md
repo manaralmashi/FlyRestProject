@@ -4,7 +4,7 @@ java program that demonstrate a travel agency system. The system gives users the
 ## Aim and Objective:
 - To build a medium-scale Java program using OOP concepts.
 - To work in teams and learn from each other.
-- 
+
 ### In this project, We build a Java software / program by going through the following design processes:
 - Designing a program by drawing UML diagrams which will help in describing and designing Java classes.
 - Expressing object orientation through exploring classes, interfaces, inheritance, polymorphism, abstraction, exception handling, and collection.
